@@ -1,0 +1,95 @@
+.content {
+    padding: 13px;
+}
+
+h1{font-size: xx-large; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; font-size: 50px; text-align: center;}
+
+
+p{
+    font-size: 18px;
+    padding: 15px;
+    text-align: justify;    
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+}
+
+h3{text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 25px;}
+h2{text-align: center; 
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+
+nav{font-size: 25px; 
+    text-align: center;
+    word-spacing: 5px;
+    font-family: 'Courier New', Courier, monospace;}
+
+footer{text-align: center;}
+
+.claro{background-color: white;}
+
+.yo {
+    width: 65px ;
+    height: 90px;  
+    border-radius: 50%;     
+}
+.wiki{
+    width: 65px;
+    height: 65px;
+ background-color: white;
+padding: 7px;
+}
+
+.foto1 {
+width: 600px; height: 350px;
+}
+
+.fotos_turismo{
+    width: 350px;
+    height: 200px;
+}
+
+
+nav {background-color: antiquewhite; 
+}
+
+
+nav li {display: inline-block;}
+.row {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.col {
+    background-color: white;
+    width: 400px;
+    padding: 16px;
+
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+input{ 
+    padding: 8px;
+}
+
+button{
+    padding: 8px;
+    background-color: rgb(180, 176, 176);
+    color: white;
+    font-size: 20px;
+    }
+
+    button:hover{
+        background-color: rgb(87, 53, 47);
+
+    }
+    .Formu{
+        font-size: 30px;
+        text-align: center;
+    }
+
+    
