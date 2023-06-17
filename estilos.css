@@ -25,7 +25,8 @@ nav{font-size: 25px;
 
 footer{text-align: center;}
 
-.claro{background-color: white;}
+.claro{background-color: white;
+padding-top: 36px;}
 
 .yo {
     width: 65px ;
